@@ -1,0 +1,10 @@
+{
+    "name": "nilo-on-demand",
+    "private": true,
+    "packageManager": "pnpm@10.31.0",
+    "scripts": {
+        "dev": "pnpm -r dev",
+        "build": "pnpm -r build",
+        "lint": "pnpm -r lint"
+    }
+}
